@@ -23,7 +23,7 @@ a, a:visited {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-image:  url("../assets/repeat1.png") 100 /  20px / 0 round;
+    border-image:  url("assets/repeat1.png") 100 /  20px / 0 round;
     border-width:  50px;
     border-style:  solid;
  }
